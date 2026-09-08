@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # list remote data files
 aws s3 ls s3://dsan6000-wikipedia/hourly/
 
